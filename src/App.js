@@ -266,8 +266,7 @@ export default function Example() {
                       Focus on what matters
                     </h1>
                     <p className="mt-4 text-xl text-gray-600">
-                      All the charts, datepickers, and notifications in the world can't beat checking off some items on
-                      a paper card.
+                      Quality martial arts gear at an affordable price for gyms and practicioners
                     </p>
                   </div>
                 </div>
