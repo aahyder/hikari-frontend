@@ -86,13 +86,13 @@ export default function Example() {
   const handleBuy = (e) => {
     e.preventDefault();
     if(selectedSize.name === "A1") {
-      window.location.href = 'https://buy.stripe.com/00g3cw8Vc7akcYUbII'
+      window.location.href = 'https://buy.stripe.com/dR6aEY2wOgKU7EA28k'
     } else if(selectedSize.name === "A2") {
-      window.location.href = 'https://buy.stripe.com/3cs28s3AS52c3ok28d'      
+      window.location.href = 'https://buy.stripe.com/8wM4gAfjA1Q0gb66oB'      
     } else if(selectedSize.name === "A3") {
-      window.location.href = 'https://buy.stripe.com/9AQ3cwfjA52cbUQ5ko'        
+      window.location.href = 'https://buy.stripe.com/6oE6oIc7o7akcYU3cq'        
     } else {
-      window.location.href = 'https://buy.stripe.com/eVa14o2wO7ak4so00b'
+      window.location.href = 'https://buy.stripe.com/14kbJ2c7ocuEe2YaET'
     }
   };
   const handleEmailSubmit = async(e) => {
