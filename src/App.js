@@ -62,7 +62,7 @@ const products = [
     price: '$120',
     href: '#',
     imageSrc: 'img/Gi.jpeg',
-    buyImageSrc: 'img/IMG_0259.jpeg',
+    buyImageSrc: 'img/IMG_0259.jpg',
     imageAlt: "Men's Jujitsu Gi",
     sizes: [
       { name: 'A1', description: "Men's Small" },
