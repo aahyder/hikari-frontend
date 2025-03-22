@@ -68,7 +68,7 @@ const products = [
       { name: 'A1', description: "Men's Small" },
       { name: 'A2', description: "Men's Medium" },
       { name: 'A3', description: "Men's Large" },
-      { name: 'A4', description: "Men's Extra Large" },
+      { name: 'A4', description: "Men's Extra Large" }
     ],
   },
   // More products...
