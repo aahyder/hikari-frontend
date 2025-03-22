@@ -59,7 +59,7 @@ const products = [
     id: 1,
     name: "Men's Jujitsu Gi",
     color: 'Black',
-    price: '$90',
+    price: '$120',
     href: '#',
     imageSrc: 'img/Gi.jpeg',
     buyImageSrc: 'img/IMG_0259.jpeg',
